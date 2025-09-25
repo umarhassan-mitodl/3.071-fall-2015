@@ -5,6 +5,8 @@ description: 'This resource contains information regarding lecture 6: Glass shap
 file: /courses/3-071-amorphous-materials-fall-2015/c858e5e83ec5026310642a7d6f87812b_MIT3_071F15_Lecture6.pdf
 file_size: 1473828
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

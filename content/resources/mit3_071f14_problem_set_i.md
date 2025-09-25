@@ -4,6 +4,8 @@ description: 'This file contains information regarding problem set I: glass form
 file: /courses/3-071-amorphous-materials-fall-2015/3857a29c8fa3a97c33fa19c2ebab8936_MIT3_071F14_Problem_Set_I.pdf
 file_size: 83035
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

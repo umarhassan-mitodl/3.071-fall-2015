@@ -4,6 +4,8 @@ description: This is supporting file contains information regarding glass_DSC.
 file: /courses/3-071-amorphous-materials-fall-2015/25823dc908e2a6a5c23f8ea1e3a322ad_Glass_DSC.m
 file_size: 2102
 file_type: text/x-objcsrc
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
