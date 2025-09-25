@@ -5,6 +5,8 @@ description: 'This resource contains information regarding lecture 3: Glass form
 file: /courses/3-071-amorphous-materials-fall-2015/11e638bcfa158b75e2c775ce38d5dc24_MIT3_071F15_Lecture3.pdf
 file_size: 1458590
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

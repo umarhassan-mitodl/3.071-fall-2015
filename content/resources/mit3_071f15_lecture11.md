@@ -5,6 +5,8 @@ description: 'This resource contains information regarding lecture 11: Amorphous
 file: /courses/3-071-amorphous-materials-fall-2015/5d3a1ca6b2eda181441a642d9f7deab8_MIT3_071F15_Lecture11.pdf
 file_size: 1368754
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

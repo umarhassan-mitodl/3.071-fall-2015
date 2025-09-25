@@ -5,6 +5,8 @@ description: 'This resource contains information regarding lecture 12: Optical p
 file: /courses/3-071-amorphous-materials-fall-2015/71c6a48bdc98581d5ce245785b423080_MIT3_071F15_Lecture12.pdf
 file_size: 2346449
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

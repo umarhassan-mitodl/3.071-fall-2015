@@ -5,6 +5,8 @@ description: 'This resource contains information regarding lecture 14: Character
 file: /courses/3-071-amorphous-materials-fall-2015/2e4590ef857e2ea1371b85339dd24057_MIT3_071F15_Lecture14.pdf
 file_size: 1234051
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

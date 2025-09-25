@@ -5,6 +5,8 @@ description: 'This resource contains information regarding lecture 8: Mechanical
 file: /courses/3-071-amorphous-materials-fall-2015/d40eb6c6d4abcdee2d66b83cbc736954_MIT3_071F15_Lecture8.pdf
 file_size: 1028499
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
